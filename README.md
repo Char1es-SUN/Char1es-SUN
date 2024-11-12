@@ -29,8 +29,7 @@ Welcome to my GitHub profile! I'm a freshman at the Hong Kong University of Scie
 
 ### 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=outlook)](mailto:szcexistentialism@outlook.com)
 
 ---
 
